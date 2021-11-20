@@ -1,0 +1,16 @@
+Significant predictor variables from multiple regression analysis (no location data):
+
+accommodates
+bedrooms
+n_bathrooms
+bathroom_private
+room_private
+has_ac
+has_heating
+has_parking
+has_tv
+host_yrs_exp
+number_of_reviews
+
+*note: haven't figured out how to code neighborhood (50+ levels) for LM, 
+but it is probably important for price
